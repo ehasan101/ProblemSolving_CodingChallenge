@@ -44,7 +44,9 @@ class t102 {
     
 ```
 ## TEST PORGRAM WITH DIFFERENT INPUT:
-
+![1](https://drive.google.com/uc?export=view&id=1y2SqieFWt7VZcBH4r0TxverxUlcWeGaR)
+![2](https://drive.google.com/uc?export=view&id=1Q5b4JF6DPr2a07qw1_pX1U1_ZKx9UEds)
+![3](https://drive.google.com/uc?export=view&id=1Tw8yB95eHjcX3UugwCcvv118mfcX3H42)
 
 
 ---
