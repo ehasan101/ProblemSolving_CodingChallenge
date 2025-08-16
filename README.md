@@ -1,9 +1,4 @@
-## Problem Solving with Coding 
 
-<<<<<<< HEAD
-### Language Used:
-Java, Python, C
-=======
 # Problem Solving with Coding
 This repository contains solutions to various problem-solving challenges implemented in multiple programming languages. 
 Aim is to practice and improve coding skills, algorithmic thinking & understanding of different programming paradigms.
@@ -36,4 +31,3 @@ Contributions are welcome! <br>
 
 
 ### #HappyCoding
->>>>>>> 338d024 (Update README.md)
