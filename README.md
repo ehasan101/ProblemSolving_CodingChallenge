@@ -1,5 +1,5 @@
 
-# Problem Solving with Coding
+# Solving Problems with Code
 This repository contains solutions to various problem-solving challenges implemented in multiple programming languages. 
 Aim is to practice and improve coding skills, algorithmic thinking & understanding of different programming paradigms.
 
