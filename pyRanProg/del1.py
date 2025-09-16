@@ -23,7 +23,7 @@ test2()
 
 del price
 
-print("\nAfter Delete T1:")
+print("After Delete T1:")
 test1()
 print("After Delete T2:")
 test2()
