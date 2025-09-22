@@ -8,8 +8,6 @@ def check_first_last(nums):
     else:
         print(f"False for {nums}")
 
-
-
 numbers_x = [10, 20, 30, 40, 10]
 numbers_y = [75, 65, 35, 75, 30]
 
